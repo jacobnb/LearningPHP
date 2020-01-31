@@ -24,6 +24,11 @@ echo'<table><tr><td>State Name</td><td>State Abbr.</td></tr>';
     }
 echo '</table>';
    
+echo'<table><tr><td>Exam</td><td>Grade</td></tr>';
+    foreach($exams as $key){
+        echo '<tr><td>'.$key.'</td><td>'.$exams[$key].'</td></tr>';
+    }
+
 echo'
 </div> <!-- id=container -->';
 include("./include/footer.inc");
