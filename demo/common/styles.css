@@ -1,8 +1,20 @@
 body {
-    background-color: lightblue;
+    background-color: rgb(34, 34, 71);
+    color: rgb(252, 159, 216);
   }
   
   h1 {
     color: navy;
     margin-left: 20px;
   }
+
+html,body
+{
+font-size:12pt;
+font-family:arial;
+}
+
+
+#hidden{
+display:none;
+}

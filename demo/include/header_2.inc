@@ -1,4 +1,4 @@
-    <link rel="stylesheet" type="text/css" href="./common/styles.css"/>
+    <link rel="stylesheet" type="text/css" href="../common/styles.css"/>
     <meta>
 </head>
 <body>
